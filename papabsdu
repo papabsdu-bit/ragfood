@@ -1,0 +1,166 @@
+[
+{
+"name": "Adobo",
+"category": "Main Dish",
+"origin": "Philippines",
+"description": "Adobo is one of the most famous Filipino dishes known for its rich savory flavor and simple cooking technique. It is typically made with chicken or pork simmered in soy sauce, vinegar, garlic, bay leaves, and black peppercorns. The dish balances salty, tangy, and slightly sweet flavors. Adobo is widely considered the unofficial national dish of the Philippines and is commonly served with steamed rice.",
+"ingredients": ["chicken or pork", "soy sauce", "vinegar", "garlic", "bay leaves", "black peppercorns"],
+"preparation": "Meat is marinated in soy sauce and garlic, then simmered with vinegar, bay leaves, and peppercorns until tender and flavorful.",
+"nutrition": "High in protein and rich in savory flavors but can be high in sodium depending on preparation.",
+"dietary": "gluten-free option possible"
+},
+
+{
+"name": "Sinigang",
+"category": "Soup",
+"origin": "Philippines",
+"description": "Sinigang is a popular Filipino sour soup known for its refreshing and tangy flavor. It is usually made with pork, shrimp, or fish and flavored with tamarind, tomatoes, onions, and vegetables such as radish and kangkong. The sour broth is comforting and often eaten during rainy weather. It represents the Filipino love for sour flavors in traditional cooking.",
+"ingredients": ["pork or shrimp", "tamarind", "tomatoes", "onions", "radish", "kangkong"],
+"preparation": "Ingredients are simmered together in a tamarind-based broth until the meat becomes tender and the vegetables are cooked.",
+"nutrition": "Rich in vitamins from vegetables and provides protein depending on the meat used.",
+"dietary": "gluten-free"
+},
+
+{
+"name": "Chicken Inasal",
+"category": "Grilled Dish",
+"origin": "Philippines",
+"description": "Chicken Inasal is a grilled chicken dish from Bacolod in the Philippines. It is marinated in calamansi juice, vinegar, garlic, lemongrass, and annatto oil which gives it its distinct yellow color. The chicken is grilled over charcoal and served with rice and dipping sauces. The smoky flavor and citrus marinade make it a favorite Filipino street food.",
+"ingredients": ["chicken", "calamansi", "vinegar", "garlic", "lemongrass", "annatto oil"],
+"preparation": "Chicken is marinated for several hours then grilled over charcoal while being basted with marinade.",
+"nutrition": "Good source of protein and lower fat when grilled instead of fried.",
+"dietary": "gluten-free"
+},
+
+{
+"name": "Pancit Canton",
+"category": "Noodle Dish",
+"origin": "Philippines",
+"description": "Pancit Canton is a Filipino stir-fried noodle dish influenced by Chinese cuisine. It uses egg noodles stir-fried with vegetables, soy sauce, garlic, and meat such as chicken or shrimp. The dish is commonly served during birthdays because noodles symbolize long life and prosperity in Filipino culture.",
+"ingredients": ["egg noodles", "soy sauce", "garlic", "cabbage", "carrots", "chicken or shrimp"],
+"preparation": "Noodles and ingredients are stir-fried together in a wok with soy sauce and seasonings.",
+"nutrition": "Provides carbohydrates for energy and protein from meat or seafood.",
+"dietary": "contains gluten"
+},
+
+{
+"name": "Halo-Halo",
+"category": "Dessert",
+"origin": "Philippines",
+"description": "Halo-Halo is a famous Filipino dessert known for its colorful mix of ingredients. It typically includes shaved ice, sweet beans, fruits, leche flan, ube ice cream, and evaporated milk. The name literally means 'mix mix'. It is popular during hot weather because of its refreshing taste and vibrant presentation.",
+"ingredients": ["shaved ice", "sweet beans", "fruit", "ube ice cream", "evaporated milk", "leche flan"],
+"preparation": "Ingredients are layered in a tall glass with shaved ice and milk, then topped with ice cream.",
+"nutrition": "High in sugar but provides quick energy and a refreshing treat.",
+"dietary": "vegetarian"
+},
+
+{
+"name": "Quinoa Salad",
+"category": "Healthy Food",
+"origin": "South America",
+"description": "Quinoa salad is a nutritious dish made from cooked quinoa mixed with vegetables, herbs, and a light dressing. Quinoa is considered a superfood because it contains all nine essential amino acids. This dish is popular among people who follow healthy lifestyles due to its high protein, fiber, and antioxidant content.",
+"ingredients": ["quinoa", "cucumber", "tomatoes", "olive oil", "lemon juice", "parsley"],
+"preparation": "Cook quinoa then mix with chopped vegetables and dressing.",
+"nutrition": "High in protein, fiber, and essential amino acids.",
+"dietary": "vegan, gluten-free"
+},
+
+{
+"name": "Grilled Salmon",
+"category": "Healthy Food",
+"origin": "International",
+"description": "Grilled salmon is a nutritious seafood dish rich in omega-3 fatty acids. It is commonly prepared by seasoning salmon fillets with herbs, lemon, and olive oil before grilling. The dish is popular in many healthy diets because it supports heart health and provides high-quality protein.",
+"ingredients": ["salmon fillet", "olive oil", "lemon", "garlic", "herbs"],
+"preparation": "Season salmon and grill until the fish becomes flaky and tender.",
+"nutrition": "Rich in omega-3 fatty acids and high-quality protein.",
+"dietary": "gluten-free"
+},
+
+{
+"name": "Avocado Toast",
+"category": "Healthy Food",
+"origin": "United States",
+"description": "Avocado toast is a simple and nutritious dish made with mashed avocado spread over toasted bread. It is popular for breakfast or brunch and is often topped with eggs, tomatoes, or seeds. Avocados are known for their healthy fats which help support heart health.",
+"ingredients": ["bread", "avocado", "salt", "pepper", "lemon juice"],
+"preparation": "Toast bread then spread mashed avocado and season.",
+"nutrition": "Rich in healthy fats, fiber, and vitamins.",
+"dietary": "vegetarian"
+},
+
+{
+"name": "Greek Yogurt Parfait",
+"category": "Healthy Food",
+"origin": "Greece",
+"description": "Greek yogurt parfait is a layered dessert or breakfast made with yogurt, granola, and fruits. Greek yogurt contains high levels of protein and probiotics which support digestion. The parfait is visually appealing and nutritious making it a favorite healthy breakfast option.",
+"ingredients": ["greek yogurt", "granola", "berries", "honey"],
+"preparation": "Layer yogurt, granola, and fruits in a glass.",
+"nutrition": "High in protein and probiotics.",
+"dietary": "vegetarian"
+},
+
+{
+"name": "Vegetable Stir Fry",
+"category": "Healthy Food",
+"origin": "China",
+"description": "Vegetable stir fry is a quick and healthy dish made by cooking vegetables in a hot wok with minimal oil. It often includes broccoli, carrots, bell peppers, and mushrooms. The fast cooking method helps retain nutrients while producing a flavorful dish.",
+"ingredients": ["broccoli", "carrots", "bell peppers", "soy sauce", "garlic"],
+"preparation": "Vegetables are quickly stir fried in a wok with seasonings.",
+"nutrition": "High in vitamins, minerals, and fiber.",
+"dietary": "vegan"
+},
+
+{
+"name": "Pizza Margherita",
+"category": "International Dish",
+"origin": "Italy",
+"description": "Pizza Margherita is a traditional Italian pizza known for its simple yet flavorful ingredients. It is made with tomato sauce, mozzarella cheese, and fresh basil on a thin crust. The colors represent the Italian flag and the dish is famous worldwide.",
+"ingredients": ["pizza dough", "tomato sauce", "mozzarella", "basil"],
+"preparation": "Dough is topped with sauce and cheese then baked in a hot oven.",
+"nutrition": "Provides carbohydrates and protein from cheese.",
+"dietary": "vegetarian"
+},
+
+{
+"name": "Sushi",
+"category": "International Dish",
+"origin": "Japan",
+"description": "Sushi is a Japanese dish consisting of vinegared rice combined with seafood, vegetables, or eggs. It is known for its delicate presentation and fresh ingredients. Sushi is widely popular around the world and represents Japanese culinary craftsmanship.",
+"ingredients": ["sushi rice", "seaweed", "fish", "vegetables"],
+"preparation": "Rice is seasoned with vinegar then rolled with fillings in seaweed.",
+"nutrition": "Low fat and high in protein depending on the filling.",
+"dietary": "gluten-free option"
+},
+
+{
+"name": "Tacos",
+"category": "International Dish",
+"origin": "Mexico",
+"description": "Tacos are a traditional Mexican dish consisting of a folded tortilla filled with meat, beans, vegetables, and sauces. They are popular street food and can be customized with various fillings. Tacos represent the rich culinary heritage of Mexican cuisine.",
+"ingredients": ["tortilla", "beef or chicken", "lettuce", "cheese", "salsa"],
+"preparation": "Fill tortillas with cooked meat and toppings.",
+"nutrition": "Balanced combination of protein, carbohydrates, and vegetables.",
+"dietary": "varies"
+},
+
+{
+"name": "Butter Chicken",
+"category": "International Dish",
+"origin": "India",
+"description": "Butter Chicken is a famous Indian dish made with tender chicken cooked in a creamy tomato-based sauce. The dish is known for its rich flavor and aromatic spices. It is often served with naan bread or rice and is a favorite in Indian restaurants worldwide.",
+"ingredients": ["chicken", "tomatoes", "cream", "butter", "spices"],
+"preparation": "Chicken is marinated, cooked, then simmered in a creamy tomato sauce.",
+"nutrition": "High in protein but can be high in fat due to cream and butter.",
+"dietary": "gluten-free option"
+},
+
+{
+"name": "Pad Thai",
+"category": "International Dish",
+"origin": "Thailand",
+"description": "Pad Thai is a famous Thai stir-fried noodle dish combining rice noodles with shrimp, tofu, eggs, and peanuts. The dish balances sweet, sour, salty, and spicy flavors. It is one of Thailand's most popular street foods and enjoyed worldwide.",
+"ingredients": ["rice noodles", "shrimp", "tofu", "eggs", "peanuts", "tamarind sauce"],
+"preparation": "Noodles are stir fried with ingredients and sauce in a wok.",
+"nutrition": "Provides carbohydrates, protein, and healthy fats.",
+"dietary": "gluten-free option"
+}
+]
